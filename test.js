@@ -1,2 +1,1 @@
-const author = "Anas"
-console.log(author)
+console.log("Hello")
